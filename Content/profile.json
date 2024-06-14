@@ -13,17 +13,12 @@
   "GitHub": "https://github.com/Duniyana/Projects"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "My journey began at Seattle Pacific University where I pursued a degree in Information Systems. During my time at the university, I developed a strong foundation in both theoretical and practical aspects of computer science. I am currently focused on refining my skills and expanding my knowledge in the tech industry.",
   "School": "Seattle Pacific University",
   "Major": "Information Systems",
   "Graduation": "June 2025",
-  "EducationText": "Use this to add some narrative to your education section",
-  "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
+  "EducationText": "At Seattle Pacific University, my major in Information Systems helped me understand both the technical and business aspects of the field. My education has been pivotal in developing my analytical thinking and problem-solving skills.",
   "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
 },
   "Project1": {
     "Title": "Systems Design",
