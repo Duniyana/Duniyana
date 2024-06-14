@@ -26,11 +26,32 @@
   "SkillsText": "Use this to add some narrative to your skills section",
   "Resume": "student-resume.pdf"  
 },
-"Project1": {
+  "Project1": {
     "Title": "Systems Design",
-    "Desc": "This project contains my System Proposal and System Specification from my proposed app Chef's Adventure .",
+    "Desc": "This project contains my System Proposal and System Specification from my proposed app Chef's Adventure.",
     "GitHubRepo": "https://github.com/Duniyana/Projects/tree/main/System%20Design",
     "MainImage": "SSSP.png",
-    "DetailImages": ["SSSP.png]
+    "DetailImages": ["SSSP.png","P1Detail2.png","P1Detail3.png"]
+  },
+  "Project2": {
+    "Title": "Interesting Project 2",
+    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
+    "GitHubRepo": "https://github.com",
+    "MainImage": "P2Main.png",
+    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
+  },
+  "Project3": {
+    "Title": "Interesting Project 3",
+    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "GitHubRepo": "",
+    "MainImage": "P3Main.png",
+    "DetailImages": []
+  },
+  "Project4": {
+    "Title": "",
+    "Desc": "",
+    "GitHubRepo": "",
+    "MainImage": "",
+    "DetailImages": []
   }
 }
